@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saroj</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saroj</h1>
 <h3 align="center">Passionate about developing Android apps and learning new technologies.</h3>
 
 - 💬 Ask me about **Android Development**
