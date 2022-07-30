@@ -21,4 +21,3 @@
 <div style="padding: 20px 10px;">
 <img style="border: 5px solid #5BB5AE;" src="https://activity-graph.herokuapp.com/graph?username=UKnow-IKnow&theme=react-dark&bg_color=20232a&hide_border=true">
 </div>
-
