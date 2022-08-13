@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saroj</h1>
 <h3 align="center">Passionate about developing Android apps and learning new technologies.</h3>
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Android Development**.
 - 🌱 I’m currently learning about **BlockChain**.
 - 📫 How to reach me **sarojsahu14369@gmail.com**
 - Resume : [🔗](https://drive.google.com/file/d/1U_dk75A8-h6yu8AWvSiLSHBHs2bSbvtI/view?usp=sharing)
