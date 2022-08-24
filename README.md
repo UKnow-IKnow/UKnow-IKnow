@@ -4,7 +4,7 @@
 - 💬 Ask me about **Android Development**.
 - 🌱 I’m currently learning about **BlockChain**.
 - 📫 How to reach me **sarojsahu14369@gmail.com**
-- Resume : [🔗](https://drive.google.com/file/d/1U_dk75A8-h6yu8AWvSiLSHBHs2bSbvtI/view?usp=sharing)
+- Resume : [🔗](https://drive.google.com/file/d/1_SDUsgqRWxzLT9YGxur50crFZtVUJfbu/view?usp=sharing)
 
 <h3 align="left"> Connect with me :</h3>
 <!--  linkedin -->
