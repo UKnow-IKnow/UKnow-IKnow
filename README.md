@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about developing Android apps and learning new technologies.</h3>
 
 - 💬 Ask me about **Android Development**.
-- 🌱 I’m currently learning about **BlockChain**.
+- 🌱 I’m currently learning about **MERN**.
 - 📫 How to reach me **sarojsahu14369@gmail.com**
 - Resume : [🔗](https://drive.google.com/file/d/1Gc7W-Yl55fpbyCNylpadYfhr6CN_nSBU/view?usp=sharing)
 
