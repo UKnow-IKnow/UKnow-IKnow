@@ -2,7 +2,7 @@
 
 
 - 💬 Ask me about **Android Development**.
-- 🌱 I’m currently learning about **MERN**.
+- 🌱 I’m currently learning about **FLUTTER**.
 - 📫 How to reach me **sarojsahu14369@gmail.com**
 - Resume : [🔗](https://drive.google.com/file/d/1fIbydDZxyx2WCwlOOvI0ZOhGRJUbMV7m/view?usp=share_link)
 
