@@ -4,7 +4,7 @@
 - 💬 Ask me about **Android Development**.
 - 🌱 I’m currently learning about **FLUTTER**.
 - 📫 How to reach me **sarojsahu14369@gmail.com**
-- Resume : [🔗](https://drive.google.com/file/d/1fIbydDZxyx2WCwlOOvI0ZOhGRJUbMV7m/view?usp=share_link)
+- Resume : [🔗]([https://drive.google.com/file/d/1fIbydDZxyx2WCwlOOvI0ZOhGRJUbMV7m/view?usp=share_link](https://drive.google.com/file/d/1TO7w8JMZ2hQoOSqkdlWzi9bR5dgQLV0O/view?usp=sharing))
 
 <h3 align="left"> Connect with me :</h3>
 <!--  linkedin -->
